@@ -6,5 +6,5 @@ console.log("ingrese Tu Altura:".Tu);
 if (Altura <= Tu){
     console.log("si puedes pasar.");
 } else {
-    console.log("no puedes pasar");
+    console.log("no puedes pasar.");
 }
